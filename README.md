@@ -93,7 +93,6 @@ m. GridView
 ![Screenshot Dashboard Oracle](img/gridview.PNG)
 <br>
 ### 3. Tugas
-<br>
 ![Screenshot Dashboard Oracle](img/tugas.PNG)
 ![Screenshot Dashboard Oracle](img/tugas2.PNG)
 
