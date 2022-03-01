@@ -33,7 +33,7 @@ f. Dialog
 <br>
 g. Input dan Selection Widget
 <br>
-![Screenshot Dashboard Oracle](img/textfield.PNG)
+![Screenshot Dashboard Oracle](img/textwidget.PNG)
 <br>
 h. Date and Time Pickers
 <br>
